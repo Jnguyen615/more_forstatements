@@ -1,3 +1,5 @@
+// More for statement practice: 
+
 // // var pets = ["Cat", "Dog", "Fish", "Hamster", "Hedgehog", "Gecko", "Mice"];
 // // for (var element of pets){
 // //     if (element.length === 4)
